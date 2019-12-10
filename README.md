@@ -1,1 +1,1 @@
-# example-static-html
+# example-sites
