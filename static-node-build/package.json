@@ -1,7 +1,7 @@
 {
   "name": "static-node-build",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "packs/index.js",
   "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
   "private": true,
   "scripts": {
