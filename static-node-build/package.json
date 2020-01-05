@@ -9,12 +9,12 @@
     "build": "NODE_ENV=production webpacker build"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.15",
-    "@swiftcarrot/kit": "^0.5.0",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "@emotion/core": "^10.0.27",
+    "@swiftcarrot/kit": "^0.6.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@swiftcarrot/webpacker": "^2.4.4"
+    "@swiftcarrot/webpacker": "^2.5.2"
   }
 }
